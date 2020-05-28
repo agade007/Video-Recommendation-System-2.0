@@ -21,7 +21,7 @@ Approaches and Deliverables:
 ```
 Used Inverse index and/or TF-IDF information directly find closest matches.
 Generated a vector/embedding and find closest vector matches. For instance:
-Use dan existing word embedding model Word2Vec to create vectors.
+Used an existing word embedding model Word2Vec to create vectors.
 Vectorize the TF-IDF information and use that as your vector.
 Implemented an additional web interface where you can submit any clip_id in the dataset and get the similar clips JSON as a response.
 Submitting your work as a git repo with clean commit messages.
