@@ -19,7 +19,7 @@ image (url of thumbnail)
 Approaches and Deliverables:
 
 ```
-Used an inverse index and/or TF-IDF information directly find closest matches.
+Used Inverse index and/or TF-IDF information directly find closest matches.
 Generated a vector/embedding and find closest vector matches. For instance:
 Use dan existing word embedding model Word2Vec to create vectors.
 Vectorize the TF-IDF information and use that as your vector.
